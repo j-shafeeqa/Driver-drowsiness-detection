@@ -1,5 +1,5 @@
 # Driver Drowsiness Detection System
-
+![image](https://github.com/user-attachments/assets/eb6a3ab7-1c3a-4529-a7df-4a5bb8b68122)
 ## Overview
 
 Driver fatigue is a significant contributor to road accidents worldwide. This project presents a real-time Driver Drowsiness Detection System leveraging Deep Learning (CNNs) and Computer Vision (OpenCV) to monitor a driver's eye status and issue an alert if signs of drowsiness are detected.
